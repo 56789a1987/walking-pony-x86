@@ -1,0 +1,15 @@
+# editor configs
+.vs/
+.vscode/
+
+# temporary/backup files
+*~
+*.kate-swp
+
+# binaries
+*.bin
+*.img
+
+# system caches
+.DS_Store
+Thumbs.db
